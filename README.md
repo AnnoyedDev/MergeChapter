@@ -9,6 +9,7 @@ Current format MUST be :
 
 # My format dont match !
 You can **modify the regex at line 55** to match your current format
+
 IF SO, also **modify the line 142** if you change "Chapitre" to "Chapter" for example
 
 OR
